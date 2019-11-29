@@ -1,2 +1,2 @@
-# sandraaholic.github.io
-ini adalah web Portofolio untuk website pribadi
+# Sandraaholic
+ini adalah web Portofolio Saya
